@@ -1,12 +1,12 @@
-package br.com.techtaste.ms_pedidos;
+package br.com.techtaste.ms_pagamentos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-//@SpringBootTest
-class MsPedidosApplicationTests {
+@SpringBootTest
+class MsPagamentosApplicationTests {
 
-	//@Test
+	@Test
 	void contextLoads() {
 	}
 
