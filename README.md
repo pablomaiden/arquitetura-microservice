@@ -4,8 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-guimarães-ab7a1a20/)
 
-Arquitetura em Micro Serviços é um projeto criado apenas para estudo e conhecimento do seria uma arquitetura em micro serviços.
-Neste projeto eu abordo as seguintes tecnologias, EUREKA SERVICE, GATEWAY, RABBITMQ, CIRCUIT BREAK, JAVA e SPRING BOOT.
+Com o objetivo de aprofundar o conhecimento em arquitetura de microsserviços, este projeto exemplifica a aplicação de conceitos-chave por meio da integração de Eureka Service, Gateway, RabbitMQ, Circuit Breaker, Java e Spring Boot.
 
 
 
