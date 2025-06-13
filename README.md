@@ -1,11 +1,11 @@
 ### ARQUITETURA EM MICRO SERVICES
 
 **Criada por Pablo Guimarães**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-guimarães-ab7a1a20/)
 
 Arquitetura em Micro Serviços é um projeto criado apenas para estudo e conhecimento do seria uma arquitetura em micro serviços.
 Neste projeto eu abordo as seguintes tecnologias, EUREKA SERVICE, GATEWAY, RABBITMQ, CIRCUIT BREAK, JAVA e SPRING BOOT.
-
 
 
 
